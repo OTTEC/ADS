@@ -93,6 +93,7 @@ class LayerSwitcher extends Control {
         element.appendChild(this.button);
         this.panel = document.createElement('div');
         this.panel.className = 'panel';
+		this.panel.style.width = '300px';
         element.appendChild(this.panel);
         LayerSwitcher.enableTouchScroll_(this.panel);
         element.classList.add(CSS_PREFIX + 'group-select-style-' + this.groupSelectStyle);
