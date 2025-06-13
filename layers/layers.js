@@ -2535,9 +2535,9 @@ var lyr_PPE_139 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_PPE_139, 
                 style: style_PPE_139,
-                popuplayertitle: 'PPE',
+                popuplayertitle: 'Périmètres de Protection Éloignés (PPE)',
                 interactive: true,
-                title: '<img src="styles/legend/PPE_139.png" /> PPE'
+                title: '<img src="styles/legend/PPE_139.png" /> Périmètres de Protection Éloignés (PPE)'
             });
 var format_PPI_140 = new ol.format.GeoJSON();
 var features_PPI_140 = format_PPI_140.readFeatures(json_PPI_140, 
@@ -2550,9 +2550,9 @@ var lyr_PPI_140 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_PPI_140, 
                 style: style_PPI_140,
-                popuplayertitle: 'PPI',
+                popuplayertitle: 'Périmètres de Protection Immédiats (PPI)',
                 interactive: true,
-                title: '<img src="styles/legend/PPI_140.png" /> PPI'
+                title: '<img src="styles/legend/PPI_140.png" /> Périmètres de Protection Immédiats (PPI)'
             });
 var format_PPR_141 = new ol.format.GeoJSON();
 var features_PPR_141 = format_PPR_141.readFeatures(json_PPR_141, 
@@ -2565,9 +2565,9 @@ var lyr_PPR_141 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_PPR_141, 
                 style: style_PPR_141,
-                popuplayertitle: 'PPR',
+                popuplayertitle: 'Périmètres de Protection Rapprochés (PPR)',
                 interactive: true,
-                title: '<img src="styles/legend/PPR_141.png" /> PPR'
+                title: '<img src="styles/legend/PPR_141.png" /> Périmètres de Protection Rapprochés (PPR)'
             });
 var format_Fortspubliques_142 = new ol.format.GeoJSON();
 var features_Fortspubliques_142 = format_Fortspubliques_142.readFeatures(json_Fortspubliques_142, 
@@ -2716,9 +2716,9 @@ var lyr_ZPPAGournayenBrayZone2_150 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_ZPPAGournayenBrayZone2_150, 
                 style: style_ZPPAGournayenBrayZone2_150,
-                popuplayertitle: 'ZPPA Gournay-en-Bray - Zone 2',
+                popuplayertitle: 'Zone Archéologique Gournay-en-Bray - Zone 2',
                 interactive: true,
-                title: '<img src="styles/legend/ZPPAGournayenBrayZone2_150.png" /> ZPPA Gournay-en-Bray - Zone 2'
+                title: '<img src="styles/legend/ZPPAGournayenBrayZone2_150.png" /> Zone Archéologique Gournay-en-Bray - Zone 2'
             });
 var format_ZPPAGournayenBrayZone1_151 = new ol.format.GeoJSON();
 var features_ZPPAGournayenBrayZone1_151 = format_ZPPAGournayenBrayZone1_151.readFeatures(json_ZPPAGournayenBrayZone1_151, 
@@ -2731,9 +2731,9 @@ var lyr_ZPPAGournayenBrayZone1_151 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_ZPPAGournayenBrayZone1_151, 
                 style: style_ZPPAGournayenBrayZone1_151,
-                popuplayertitle: 'ZPPA Gournay-en-Bray - Zone 1',
+                popuplayertitle: 'Zone Archéologique Gournay-en-Bray - Zone 1',
                 interactive: true,
-                title: '<img src="styles/legend/ZPPAGournayenBrayZone1_151.png" /> ZPPA Gournay-en-Bray - Zone 1'
+                title: '<img src="styles/legend/ZPPAGournayenBrayZone1_151.png" /> Zone Archéologique Gournay-en-Bray - Zone 1'
             });
 var format_Sitesauxabords_152 = new ol.format.GeoJSON();
 var features_Sitesauxabords_152 = format_Sitesauxabords_152.readFeatures(json_Sitesauxabords_152, 
@@ -2761,9 +2761,9 @@ var lyr_SUPMH_153 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_SUPMH_153, 
                 style: style_SUPMH_153,
-                popuplayertitle: 'SUPMH',
+                popuplayertitle: 'Périmètres Monuments Historiques',
                 interactive: true,
-                title: '<img src="styles/legend/SUPMH_153.png" /> SUPMH'
+                title: '<img src="styles/legend/SUPMH_153.png" /> Périmètres Monuments Historiques'
             });
 var format_SPR_154 = new ol.format.GeoJSON();
 var features_SPR_154 = format_SPR_154.readFeatures(json_SPR_154, 
@@ -2821,9 +2821,9 @@ var lyr_Immeubles_157 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Immeubles_157, 
                 style: style_Immeubles_157,
-                popuplayertitle: 'Immeubles',
+                popuplayertitle: 'Monuments Historiques',
                 interactive: true,
-    title: 'Immeubles<br />\
+    title: 'Monuments Historiques<br />\
     <img src="styles/legend/Immeubles_157_0.png" /> Classé<br />\
     <img src="styles/legend/Immeubles_157_1.png" /> Inscrit<br />\
     <img src="styles/legend/Immeubles_157_2.png" /> Non protégé<br />\
@@ -2841,9 +2841,9 @@ var lyr_ZPPAindiffrencies_158 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_ZPPAindiffrencies_158, 
                 style: style_ZPPAindiffrencies_158,
-                popuplayertitle: 'ZPPA - indifférenciées',
+                popuplayertitle: 'Zones Archéologie',
                 interactive: true,
-                title: '<img src="styles/legend/ZPPAindiffrencies_158.png" /> ZPPA - indifférenciées'
+                title: '<img src="styles/legend/ZPPAindiffrencies_158.png" /> Zones Archéologie'
             });
 var format_ZPPAindiffrenciescentrodes_159 = new ol.format.GeoJSON();
 var features_ZPPAindiffrenciescentrodes_159 = format_ZPPAindiffrenciescentrodes_159.readFeatures(json_ZPPAindiffrenciescentrodes_159, 
@@ -3628,7 +3628,7 @@ var group_Zonagesenvironnementaux = new ol.layer.Group({
                                 fold: 'close',
                                 title: 'Zonages environnementaux'});
 var group_Risqueshydrologiques = new ol.layer.Group({
-                                layers: [lyr_Zonesimpermables_185,lyr_Remontesdenappes_186,],
+                                layers: [lyr_Remontesdenappes_186,],
                                 fold: 'close',
                                 title: 'Risques hydrologiques'});
 var group_Risquesindustriels = new ol.layer.Group({
@@ -3668,13 +3668,13 @@ var group_Bruit = new ol.layer.Group({
                                 fold: 'close',
                                 title: 'Bruit'});
 var group_Patrimoine = new ol.layer.Group({
-                                layers: [lyr_ZPPAGournayenBrayZone2_150,lyr_ZPPAGournayenBrayZone1_151,lyr_Sitesauxabords_152,lyr_SUPMH_153,lyr_SPR_154,lyr_Sitesclasss_155,lyr_Sitesinscrits_156,lyr_Immeubles_157,lyr_ZPPAindiffrencies_158,lyr_ZPPAindiffrenciescentrodes_159,],
+                                layers: [lyr_ZPPAGournayenBrayZone2_150,lyr_ZPPAGournayenBrayZone1_151,lyr_SUPMH_153,lyr_SPR_154,lyr_Sitesclasss_155,lyr_Sitesinscrits_156,lyr_Immeubles_157,lyr_ZPPAindiffrencies_158,],
                                 fold: 'close',
                                 title: 'Patrimoine'});
 var group_Elmentsnaturels = new ol.layer.Group({
                                 layers: [lyr_Fortspubliques_142,lyr_Haies_143,lyr_Trononshydrographiques_144,lyr_Surfaceshydrographiques_145,lyr_Dtailshydrographiques_146,lyr_MaresPRAM_147,lyr_Bassinversanttopographique_148,lyr_Toponymiehydrographie_149,],
                                 fold: 'close',
-                                title: 'Eléments naturels'});
+                                title: 'Éléments naturels'});
 var group_Captagesdeau = new ol.layer.Group({
                                 layers: [lyr_PPE_139,lyr_PPI_140,lyr_PPR_141,],
                                 fold: 'close',
@@ -3898,7 +3898,7 @@ group_BzancourtCarteCommunale
 });
 
 lyr_BDOrthoIGN_0.setVisible(true);lyr_PETRduPaysdeBray_1.setVisible(true);lyr_Secteurs_2.setVisible(false);lyr_Secteurs_3.setVisible(false);lyr_Prescriptionssurfaciques_4.setVisible(false);lyr_Prescriptionslinaires_5.setVisible(false);lyr_Prescriptionsponctuelles_6.setVisible(false);lyr_Codessecteurs_7.setVisible(false);lyr_Secteurs_8.setVisible(false);lyr_Codessecteurs_9.setVisible(false);lyr_Secteurs_10.setVisible(false);lyr_Prescriptionssurfaciques_11.setVisible(false);lyr_Primtresdeprotectiondecaptage_12.setVisible(false);lyr_Prescriptionslinaires_13.setVisible(false);lyr_Ruissellement_14.setVisible(false);lyr_Prescriptionsponctuelles_15.setVisible(false);lyr_Codessecteurs_16.setVisible(false);lyr_Secteurs_17.setVisible(false);lyr_Codessecteurs_18.setVisible(false);lyr_Secteurs_19.setVisible(false);lyr_Codessecteurs_20.setVisible(false);lyr_Secteurs_21.setVisible(false);lyr_Prescriptionssurfaciques_22.setVisible(false);lyr_Prescriptionslinaires_23.setVisible(false);lyr_Prescriptionsponctuelles_24.setVisible(false);lyr_Codessecteurs_25.setVisible(false);lyr_Secteurs_26.setVisible(false);lyr_Boisprotgs_27.setVisible(false);lyr_Codessecteurs_28.setVisible(false);lyr_Secteurs_29.setVisible(false);lyr_Prescriptionssurfaciques_30.setVisible(false);lyr_Codessecteurs_31.setVisible(false);lyr_Secteurs_32.setVisible(false);lyr_Prescriptionssurfaciques_33.setVisible(false);lyr_Prescriptionslinaires_34.setVisible(false);lyr_Prescriptionsponctuelles_35.setVisible(false);lyr_Codessecteurs_36.setVisible(false);lyr_Secteurs_37.setVisible(false);lyr_Codessecteurs_38.setVisible(false);lyr_Secteurs_39.setVisible(false);lyr_Codessecteurs_40.setVisible(false);lyr_Secteurs_41.setVisible(false);lyr_Codessecteurs_42.setVisible(false);lyr_Secteurs_43.setVisible(false);lyr_Codessecteurs_44.setVisible(false);lyr_Secteurs_45.setVisible(false);lyr_Codessecteurs_46.setVisible(false);lyr_Secteurs_47.setVisible(false);lyr_Codessecteurs_48.setVisible(false);lyr_Secteurs_49.setVisible(false);lyr_Prescriptionssurfaciques2_50.setVisible(false);lyr_Prescriptionssurfaciques1_51.setVisible(false);lyr_Prescriptionslinaire_52.setVisible(false);lyr_Prescriptionsponctuelles_53.setVisible(false);lyr_Codessecteurs_54.setVisible(false);lyr_Secteurs_55.setVisible(false);lyr_Codessecteurs_56.setVisible(false);lyr_Secteurs_57.setVisible(false);lyr_Secteurs_58.setVisible(false);lyr_Prescriptionssurfaciques_59.setVisible(false);lyr_Prescriptionslinaires_60.setVisible(false);lyr_Prescriptionsponctuelles_61.setVisible(false);lyr_Codessecteurs_62.setVisible(false);lyr_Secteurs_63.setVisible(false);lyr_Prescriptionssurfaciques_64.setVisible(false);lyr_Prescriptionslinaires_65.setVisible(false);lyr_Prescriptionsponctuelles_66.setVisible(false);lyr_Codessecteurs_67.setVisible(false);lyr_Secteurs_68.setVisible(false);lyr_Prescriptionssurfaciques_69.setVisible(false);lyr_Prescriptionslinaires_70.setVisible(false);lyr_Prescriptionsponctuelles_71.setVisible(false);lyr_Codessecteurs_72.setVisible(false);lyr_Secteurs_73.setVisible(false);lyr_Codessecteurs_74.setVisible(false);lyr_Secteurs_75.setVisible(false);lyr_Codessecteurs_76.setVisible(false);lyr_Secteurs_77.setVisible(false);lyr_Prescriptionssurfaciques2_78.setVisible(false);lyr_Prescriptionssurfaciques1_79.setVisible(false);lyr_Ruissellement_80.setVisible(false);lyr_Prescriptionslinaires_81.setVisible(false);lyr_Prescriptionsponctuelles_82.setVisible(false);lyr_Codessecteurs_83.setVisible(false);lyr_Secteurs_84.setVisible(false);lyr_Codessecteurs_85.setVisible(false);lyr_Secteurs_86.setVisible(false);lyr_Prescriptionssurfaciques_87.setVisible(false);lyr_Prescriptionslinaires_88.setVisible(false);lyr_Prescriptionsponctuelles_89.setVisible(false);lyr_Codessecteurs_90.setVisible(false);lyr_Secteurs_91.setVisible(false);lyr_Codessecteurs_92.setVisible(false);lyr_Secteurs_93.setVisible(false);lyr_Espaceboisclass_94.setVisible(false);lyr_Codessecteurs_95.setVisible(false);lyr_Secteurs_96.setVisible(false);lyr_Bois_97.setVisible(false);lyr_Codessecteurs_98.setVisible(false);lyr_Secteurs_99.setVisible(false);lyr_Droitdepremption_100.setVisible(false);lyr_Codessecteurs_101.setVisible(false);lyr_Secteurs_102.setVisible(false);lyr_DroitdePremption_103.setVisible(false);lyr_Codessecteurs_104.setVisible(false);lyr_Secteurs_105.setVisible(false);lyr_DroitdePremptionurbain_106.setVisible(false);lyr_Prescriptionssurfaciques_107.setVisible(false);lyr_Prescriptionsponctuelles_108.setVisible(false);lyr_Codessecteurs_109.setVisible(false);lyr_Secteurs_110.setVisible(false);lyr_Codessecteurs_111.setVisible(false);lyr_Secteurs_112.setVisible(false);lyr_Secteurs_113.setVisible(false);lyr_Prescriptionssurfaciques_114.setVisible(false);lyr_Prescriptionslinaires_115.setVisible(false);lyr_Prescriptionsponctuelles_116.setVisible(false);lyr_Codessecteurs_117.setVisible(false);lyr_Prescriptionssurfaciques_118.setVisible(false);lyr_Secteurs_119.setVisible(false);lyr_Codessecteurs_120.setVisible(false);lyr_Secteurs_121.setVisible(false);lyr_Codessecteurs_122.setVisible(false);lyr_Secteurs_123.setVisible(false);lyr_Prescriptionssurfaciques_124.setVisible(false);lyr_Prescriptionslinaires_125.setVisible(false);lyr_Prescriptionsponctuelles_126.setVisible(false);lyr_Codessecteurs_127.setVisible(false);lyr_Corpsdeferme_128.setVisible(false);lyr_Distancedereculautourdubti_129.setVisible(false);lyr_Btiagricole_130.setVisible(false);lyr_Primtredeprotectionincendie100m_131.setVisible(false);lyr_Primtredeprotectionincendie15m_132.setVisible(false);lyr_lotsanonymesPAC_133.setVisible(false);lyr_Corpsdeferme_134.setVisible(false);lyr_Distancedereculautourdubti_135.setVisible(false);lyr_Btiagricole_136.setVisible(false);lyr_Zonedactivitetdeservice_137.setVisible(false);lyr_ERP_138.setVisible(false);lyr_PPE_139.setVisible(false);lyr_PPI_140.setVisible(false);lyr_PPR_141.setVisible(false);lyr_Fortspubliques_142.setVisible(false);lyr_Haies_143.setVisible(false);lyr_Trononshydrographiques_144.setVisible(false);lyr_Surfaceshydrographiques_145.setVisible(false);lyr_Dtailshydrographiques_146.setVisible(false);lyr_MaresPRAM_147.setVisible(false);lyr_Bassinversanttopographique_148.setVisible(false);lyr_Toponymiehydrographie_149.setVisible(false);lyr_ZPPAGournayenBrayZone2_150.setVisible(false);lyr_ZPPAGournayenBrayZone1_151.setVisible(false);lyr_Sitesauxabords_152.setVisible(false);lyr_SUPMH_153.setVisible(false);lyr_SPR_154.setVisible(false);lyr_Sitesclasss_155.setVisible(false);lyr_Sitesinscrits_156.setVisible(false);lyr_Immeubles_157.setVisible(false);lyr_ZPPAindiffrencies_158.setVisible(false);lyr_ZPPAindiffrenciescentrodes_159.setVisible(false);lyr_RoutesconcdesTypeC_160.setVisible(false);lyr_RoutesconcdesTypeA_161.setVisible(false);lyr_RoutesTypeC_162.setVisible(false);lyr_RoutesTypeA_163.setVisible(false);lyr_Canalisationshydrocarbures_164.setVisible(false);lyr_CanalisationsgazGRT_165.setVisible(false);lyr_CanalisationsgazGRDF_166.setVisible(false);lyr_LignesbassetensionsouterrainesENEDIS_167.setVisible(false);lyr_LignesbassetensionariennesENEDIS_168.setVisible(false);lyr_LigneshautetensionsouterrainesENEDIS_169.setVisible(false);lyr_LigneshautetensionariennesENEDIS_170.setVisible(false);lyr_LigneshautetensionRTE_171.setVisible(false);lyr_Postesdetransformation_172.setVisible(false);lyr_Itinraireautre_173.setVisible(false);lyr_Voieferre_174.setVisible(false);lyr_RoutesdeGrandeCirculation_175.setVisible(false);lyr_Routesnumrotesounommes_176.setVisible(false);lyr_Niveaudurisque_177.setVisible(false);lyr_Zonesdalas_178.setVisible(false);lyr_Zonesrglementaires_179.setVisible(false);lyr_Ruissellement_180.setVisible(false);lyr_Secteurs_181.setVisible(false);lyr_ICPE_182.setVisible(false);lyr_SitesBASOL_183.setVisible(false);lyr_Sitespollus_184.setVisible(false);lyr_Zonesimpermables_185.setVisible(false);lyr_Remontesdenappes_186.setVisible(false);lyr_ZNIEFFtype2_187.setVisible(false);lyr_ZNIEFFtype1_188.setVisible(false);lyr_Zoneshumides_189.setVisible(false);lyr_Natura2000_190.setVisible(false);lyr_Cimetire_191.setVisible(true);lyr_Rservoir_192.setVisible(true);lyr_Terraindesport_193.setVisible(true);lyr_Monument_194.setVisible(true);lyr_Indiffrenci_195.setVisible(true);lyr_Industrielagricoleoucommercial_196.setVisible(true);lyr_Constructionsponctuelles_197.setVisible(true);lyr_Pylne_198.setVisible(false);lyr_CCdes4Rivires_199.setVisible(false);lyr_CCBrayEawy_200.setVisible(false);lyr_CCdeLondinieres_201.setVisible(false);lyr_Parcellescadastrales_202.setVisible(true);lyr_Communesassociesoudlgues_203.setVisible(false);lyr_CommunesadhrentesADS_204.setVisible(false);lyr_Communes_205.setVisible(true);lyr_Nomdescommunes_206.setVisible(true);
-var layersList = [lyr_BDOrthoIGN_0,group_DocumentsdUrbanisme,group_EnquteagricoleLesGrandesVentes,group_EnquteagricoleLaFeuillie,group_Servicesetactivits2024,group_Captagesdeau,group_Elmentsnaturels,group_Patrimoine,group_Bruit,group_Hydrocarbures,group_Gaz,group_Electricit,group_Voiesdecommunication,group_Retraitgonflementdesargiles,group_PPRiCaillyAubetteRobec,group_AZIVarenne,group_Risquesindustriels,group_Risqueshydrologiques,group_Zonagesenvironnementaux,group_Bti,group_Limitesadministratives];
+var layersList = [lyr_BDOrthoIGN_0,group_DocumentsdUrbanisme,group_EnquteagricoleLesGrandesVentes,group_EnquteagricoleLaFeuillie,group_Servicesetactivits2024,group_Captagesdeau,group_Elmentsnaturels,group_Patrimoine,group_Gaz,group_Electricit,group_Voiesdecommunication,group_Retraitgonflementdesargiles,group_PPRiCaillyAubetteRobec,group_AZIVarenne,group_Risquesindustriels,group_Risqueshydrologiques,group_Zonagesenvironnementaux,group_Bti,group_Limitesadministratives];
 lyr_PETRduPaysdeBray_1.set('fieldAliases', {'ID': 'ID', 'CODE_SIREN': 'CODE_SIREN', 'NATURE': 'NATURE', 'NOM': 'NOM', 'DATE_CREAT': 'DATE_CREAT', 'DATE_MAJ': 'DATE_MAJ', 'DATE_APP': 'DATE_APP', 'DATE_CONF': 'DATE_CONF', 'ID_AUT_ADM': 'ID_AUT_ADM', 'layer': 'layer', 'path': 'path', });
 lyr_Secteurs_2.set('fieldAliases', {'LIBELLE': 'LIBELLE', 'TYPESECT': 'TYPESECT', 'FERMRECO': 'FERMRECO', 'DESTDOMI': 'DESTDOMI', 'NOMFIC': 'NOMFIC', 'URLFIC': 'URLFIC', 'INSEE': 'INSEE', 'DATAPPRO': 'DATAPPRO', 'DATVALID': 'DATVALID', });
 lyr_Secteurs_3.set('fieldAliases', {'LIBELLE': 'LIBELLE', 'LIBELONG': 'LIBELONG', 'URLFIC': 'URLFIC', 'DATVALID': 'DATVALID', 'TYPEZONE': 'TYPEZONE', 'IDURBA': 'IDURBA', 'NOMFIC': 'NOMFIC', });
